@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* body {
+	padding-top: 40px;
+	font-family: 'Muli';
+  font-style: normal;
+	background-image: url("../Images/bg.svg");
+  background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #0db7c4;
+	background-size: 2000px;
+} */
+
+
+body {
+	padding-top: 40px;
+	font-family: 'Muli';
+  font-style: normal;
+  /* background-image: url("/assets/bg.svg"); */
+  background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #0db7c4;
+	background-size: 2000px;
+}
